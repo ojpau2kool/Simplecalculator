@@ -1,0 +1,3 @@
+fie = open('/Desktop/python/new.txt','w')
+file.write('My name is Osas and i am from Edo state.!')
+file.close ()
